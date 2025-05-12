@@ -42,7 +42,7 @@ const akshay3377 = {
   pronouns: "He/Him",
   tags: ["Frontend ❤️", "Open-Source 🚀", "Cloud 🌩️", "Backend 💡", "Mentoring 🙌", "Communities 🎯"],
   communities: ["Microsoft Learn Student Ambassador 👨‍🎓", "Major League Hacking 🚀", "HEKORS Community 💜"],
-  askMeAbout: ["Web Development", "Cloud Technology", "Open Source", "APIs", "UI Designing"],
+  askMeAbout: ["Web Development", "Open Source", "APIs", "UI Designing"],
   reachMeOut: ["workwithakshay777@gmail.com"],
   toFindMeUsername: "@akshay3377"
 };
