@@ -1,5 +1,5 @@
 <!-- Background Banner -->
-![github-banner](https://ik.imagekit.io/ayushsoni1010/Website/github-banner_POJDoOZxu.png?updatedAt=1687334946673)
+![github-banner](https://akshay13.vercel.app/images/cover-image.jpeg)
 
 
 <!-- Short Introduction -->
