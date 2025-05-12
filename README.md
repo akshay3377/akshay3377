@@ -40,14 +40,14 @@ enhance business outcomes.</p>
 <h2 align="left">About me👨‍💻</h2>
 
 ```JavaScript
-const ayushsoni1010 = {
-  fullName: "Ayush Soni",
+const akshay3377 = {
+  fullName: "Akshay Kumar",
   pronouns: "He/Him",
-  tags: ["Frontend ❤️", "Open-Source 🚀", "Hackathons ⚡", "Cloud 🌩️", "Backend 💡", "Mentoring 🙌", "Communities 🎯"],
+  tags: ["Frontend ❤️", "Open-Source 🚀", "Cloud 🌩️", "Backend 💡", "Mentoring 🙌", "Communities 🎯"],
   communities: ["Microsoft Learn Student Ambassador 👨‍🎓", "Major League Hacking 🚀", "HEKORS Community 💜"],
   askMeAbout: ["Web Development", "Cloud Technology", "Open Source", "APIs", "UI Designing"],
-  reachMeOut: ["ayushsoni1010.work@gmail.com"],
-  toFindMeUsername: "@ayushsoni1010"
+  reachMeOut: ["workwithakshay777@gmail.com"],
+  toFindMeUsername: "@akshay3377"
 };
 ```
 
