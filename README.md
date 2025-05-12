@@ -3,7 +3,7 @@
 
 
 <!-- Short Introduction -->
-<h2 align="left">Hey, I'm Ayush Soni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
+<h2 align="left">Hey, I'm Akshay Kumar <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
 <p>👨🏻‍💻This is Ayush Soni, a passionate full-stack developer and devrel engineer with a love for open-source and UI designing. I specialize in building robust and scalable SaaS products, microservices, and design systems. With a strong grasp of frontend and backend architecture, I create intuitive designs for engaging user experiences.</p>
 
