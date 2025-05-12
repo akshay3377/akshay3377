@@ -16,11 +16,8 @@ enhance business outcomes.</p>
 <!-- Socials Links -->
 <h2 align="left">Connect with me🤝</h2>
 <div align="left">
-  <a href="https://linkedin.com/in/ayushsoni1010/" target="_blank">
+  <a href="https://linkedin.com/in/akshay1313/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/ayushsoni1010" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://akshay13.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
@@ -28,10 +25,10 @@ enhance business outcomes.</p>
   <a href="https://linktr.ee/ayushsoni1010" target="_blank">
     <img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/aayushsoni1010" target="_blank">
+  <a href="https://instagram.com/akshayy13_" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="mailto:ayushsoni1010.work@gmail.com" target="_blank">
+  <a href="mailto:workwithakshay777@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
