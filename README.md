@@ -5,13 +5,13 @@
 <!-- Short Introduction -->
 <h2 align="left">Hey, I'm Akshay Kumar <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
-<p>👨🏻‍💻This is Ayush Soni, Proficient Frontend Developer with 3+ years of experience in designing and developing dynamic and responsive web
+<p>👨🏻‍💻This is Akshay Kumar, Proficient Frontend Developer with 3+ years of experience in designing and developing dynamic and responsive web
 applications. Skilled in JavaScript, React.js, Next.js, TypeScript, Redux, Tailwind and modern UI technologies. Adept at
 creating scalable, responsive interfaces, optimizing performance, and collaborating with cross-functional stakeholders to
 deliver robust digital solutions. Passionate about writing clean, maintainable code and leveraging modern technologies to
 enhance business outcomes.</p>
 
-<p>🚀I have extensive experience in Javascript and Typescript, using them professionally and for personal projects. I'm involved in hackathons, open-source contributions, and community building as both a participant and mentor. Additionally, I also lead community initiatives, offer software development sessions, and provide team leadership.</p>
+
 
 <!-- Socials Links -->
 <h2 align="left">Connect with me🤝</h2>
@@ -22,11 +22,8 @@ enhance business outcomes.</p>
   <a href="https://twitter.com/ayushsoni1010" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="https://ayushsoni1010.com" target="_blank">
+  <a href="https://akshay13.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
-  </a>
-  <a href="https://youtube.com/@ayushsoni1010" target="_blank">
-    <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
   <a href="https://linktr.ee/ayushsoni1010" target="_blank">
     <img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
