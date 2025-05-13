@@ -40,8 +40,7 @@ enhance business outcomes.</p>
 const akshay3377 = {
   fullName: "Akshay Kumar",
   pronouns: "He/Him",
-  tags: ["Frontend ❤️", "Open-Source 🚀", "Cloud 🌩️", "Backend 💡", "Mentoring 🙌", "Communities 🎯"],
-  communities: ["Microsoft Learn Student Ambassador 👨‍🎓", "Major League Hacking 🚀", "HEKORS Community 💜"],
+  tags: ["Frontend ❤️", "Open-Source 🚀", "Cloud 🌩️", "Backend 💡", "Communities 🎯"],
   askMeAbout: ["Web Development", "Open Source", "APIs", "UI Designing"],
   reachMeOut: ["workwithakshay777@gmail.com"],
   toFindMeUsername: "@akshay3377"
@@ -75,45 +74,7 @@ const akshay3377 = {
 </div>
 
 
-<!-- Experience -->
-<h2 align="left">Experience⚡</h2>
-<!-- Experience Items -->
-<p>
-  ● <a href="https://fastn.com">FifthTry</a><i><b> (Developer Relations Engineer)</b></i> -
-  Led documentation site development, conducted developer training, enhanced the fastn framework written in <b>Rust</b>. Spearheaded strategic enhancements, built numerous sample apps with fastn, and handled other engineering tasks. Curated nationwide events, managed marketing efforts, fostered community growth, and handled client relations</a>.
-</p>
-<!--  -->
 
-<!-- Experience Items -->
-<p>
-  ●
-  <a href="https://magic.app/">Magic</a>
-  <i><b> (Product Engineer)</b></i> -
-  Worked on a dashboard application based on a SaaS product that seamlessly integrates with Slack. The application provides communities with features such as access member directories, manage events and spaces, receive announcements without distractions, and automate bulk messages in Slack without leaving Slack.
-</p>
-<!-- -->
-
-<!-- Experience Items -->
-<p>
-  ● <a href="https://www.economize.cloud/">Economize</a>
-  <i><b> (Software Engineer)</b></i> - 
-  Worked on a dashboard application based on a SaaS product to optimize and manage cloud costs. Improved frontend UI, set up Storybook for base components, and built interactive charts with Chart.js and Vue-Chart.js. Assisted in backend development and worked on the landing and blog sites.
-</p>
-<!-- -->
-
-<!-- Experience Items -->
-<p>
-  ● <a href="https://getsocialnow.co/">Script Fellowship</a> - Worked on KaroVerify, CraftBrain, and HACK-OV8 projects which are based on the MERN stack. Selected as a Fellow in the Script Fellowship Program'21 at Script Foundation. I am the top first contributor in the Script Fellowship and helped other fellows in open-source development.
-</p>
-<!--  -->
-
-<!-- Experience Items -->
-<p>
-  ● <a href="/">Open Source Contributor/Mentor</a> - I have participated as a participant and mentor in various open-source contribution programs such as <a href="https://letsgrowmore.in/soc/">LGMSoC</a>, <a href="https://www.devincept.com/">DCP</a>, <a href="https://gwoc.girlscript.tech/">GWoC</a>, <a href="https://swoc.scriptindia.org/">SWoC</a>, and <a href="https://gdsc-woc.tech/">WoC-2.0</a>. I have contributed to open-source projects in the frontend and backend domains and assisted in project documentation development.
-</p>
-
-
-<!-- Skills Section -->
 <h2 align="left">Skills🚀</h2>
 
 <!-- Languages -->
@@ -181,15 +142,7 @@ const akshay3377 = {
 </div>
 
 
-<!-- Volunteering Experience -->
-<h2>Volunteering and Community work📣</h2>
-<div>
-  <p>● <a href="https://studentambassadors.microsoft.com/#">Microsoft Learn Student Ambassador</a> / <a href="/https://gdsc.community.dev/medi-caps-university-indore/">GDSC Medi-Caps</a> - As an MLSA, I teamed up with ambassadors and hosted a 3-day web dev session for the Coding Society Community. I led a Git and GitHub workshop, promoting open source and mentoring participants. Also organized a Hacktoberfest kickoff in the HEKORS Community.</p>
-  
-  <p>● <a href="/">Hackathons Participant/Mentor</a> - I have participated in various hackathons like <a href="https://mlh.io/">MLH</a>, <a href="https://hackthisfall.tech/">HackThisFall</a>, <a href="https://hackthenorth.com/">HackTheNorth</a>, <a href="https://wittyhacks.in/">Wittyhacks</a>, and <a href="https://hackacode.anyonecanco.de/">AnyoneCo.de</a>, where our team created a Hogwatrz Magical project at MLH's AbracadabraHacks. I won the HackThisFall hackathon for the best use of Twilio and also mentored other hackers while collaborating with organizers and volunteers.</p>
-  
-  <p>● <a href="http://thedesignsystems.com/">The DesignSystems (@DesignSystemsOSS)</a> - I actively collaborated in a team to create the <code>eccentrictouch</code> CSS library using ReactJS and SCSS, with a focus on addressing frontend challenges. Additionally, I made significant contributions to thedesignsystems community website by developing UI components from scratch.</p>
-</div>
+
 
 
 <!-- GitHub Stats -->
